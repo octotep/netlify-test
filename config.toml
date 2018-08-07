@@ -1,0 +1,18 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Test of Netlify"
+theme = "hugo-dusk"
+
+[params]
+
+[params.meta]
+keywords = "blog, tech"
+description = "Tech blog shared by friends"
+
+[params.colors]
+# hugo-dusk colors
+background = "#1c1c1c" # background color for the site
+main = "#8fafd7"
+text = "#ffffff"
+code-quote-bg = "#6c6c6c" # background color for quotes and code blocks
+copyright = "#bcbcbc" # copyright text color
